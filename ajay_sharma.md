@@ -6,5 +6,6 @@ Day 1
    <br>
    -> Revised STL
    <br>
-   -> QUESTIONS
+   -> Questions
+   <br>
      1. A-team (https://codeforces.com/submissions/ajay.16)
