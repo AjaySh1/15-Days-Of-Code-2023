@@ -11,3 +11,5 @@ Day 1
      1. A-team (https://codeforces.com/submissions/ajay.16)
      <br>
      2. A-twin (https://codeforces.com/submissions/ajay.16)
+     <br>
+     3.1399B - Gifts Fixing (https://codeforces.com/submissions/ajay.16)
