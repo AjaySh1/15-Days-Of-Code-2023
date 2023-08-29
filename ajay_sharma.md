@@ -9,3 +9,4 @@ Day 1
    -> Questions
    <br>
      1. A-team (https://codeforces.com/submissions/ajay.16)
+     2. A-twin (https://codeforces.com/submissions/ajay.16)
