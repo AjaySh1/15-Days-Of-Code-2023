@@ -13,3 +13,5 @@ Day 1
      2. A-twin (https://codeforces.com/submissions/ajay.16)
      <br>
      3.1399B - Gifts Fixing (https://codeforces.com/submissions/ajay.16)
+     <br>
+     4. Good array (https://codeforces.com/contest/1856/submission/220981170)
