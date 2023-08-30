@@ -1,6 +1,6 @@
 # [AJAY SHARMA]-VISION 15 DAYS OF CODE LOG
 <br>
-#Day 1
+Day 1
 <br>
    August 29,2023
    <br>
@@ -18,7 +18,9 @@
 <br>
 <br>
 <br>
-#Day 2
+Day 2
+<br>
+   August 30,2023
 <br>
 1.Contest given on code chef (https://www.codechef.com/rankings/AUG23D?filterBy=Institution%3DMaulana%20Azad%20National%20Institute%20of%20Technology%2C%20Bhopal&itemsPerPage=100&order=asc&page=1&search=ajaysharma01&sortBy=rank)
 <br>
