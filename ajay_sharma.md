@@ -2,7 +2,7 @@
 
 ### Day 1
 <br>
-   August 29,2023
+   [08] [29],2023
    <br>
    -> Revised STL
    <br>
@@ -18,12 +18,13 @@
 
  ### Day 2
 <br>
-   August 30,2023
+   [08] [30],2023
 <br>
 1.Contest given on code chef (https://www.codechef.com/rankings/AUG23D?filterBy=Institution%3DMaulana%20Azad%20National%20Institute%20of%20Technology%2C%20Bhopal&itemsPerPage=100&order=asc&page=1&search=ajaysharma01&sortBy=rank)
 <br>
 codechef(ajaysharma01)
 
 ### Day 3
+ [08] [31],[2023]
 <br>
 
