@@ -30,3 +30,4 @@ codechef(ajaysharma01)
 - Q.5(https://codeforces.com/contest/200/submission/221268452)
 - Q.6(https://codeforces.com/contest/158/submission/221345354)
 - Q.7(https://codeforces.com/contest/1213/submission/221362752) *(I was unable to build the logic,so i saw the tutorial of it  )[Chips-moving ]
+- Participated in contest on codeforces but can't solve any question
