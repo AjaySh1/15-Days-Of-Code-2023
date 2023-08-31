@@ -4,7 +4,7 @@
 
    [08] [29],2023
    <br>
-     Revised STL
+     - Revised STL
      <br>
      - Questions
      - A-team (https://codeforces.com/submissions/ajay.16)
@@ -27,4 +27,4 @@ codechef(ajaysharma01)
 
  [08] [31],2023
 <br>
-
+- Q.1
