@@ -23,5 +23,5 @@ codechef(ajaysharma01)
 
  [08] [31],2023
 <br>
-- Q.1
+- Q.1(https://codeforces.com/problemset/submission/791/221249245)
 - Q.2
