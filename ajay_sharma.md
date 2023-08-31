@@ -7,7 +7,7 @@
      ->Revised STL
    
      - Questions
-     <br>
+     
      - A-team (https://codeforces.com/submissions/ajay.16)
      
      - A-twin (https://codeforces.com/submissions/ajay.16)
