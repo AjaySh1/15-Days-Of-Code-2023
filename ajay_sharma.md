@@ -3,17 +3,13 @@
 ### Day 1
 
    [08] [29],2023
-   
-     - Revised STL
-   
+   <br>
+     Revised STL
+     <br>
      - Questions
-     
      - A-team (https://codeforces.com/submissions/ajay.16)
-     
      - A-twin (https://codeforces.com/submissions/ajay.16)
-     
      - 1399B - Gifts Fixing (https://codeforces.com/submissions/ajay.16)
-       
      - Good array (https://codeforces.com/contest/1856/submission/220981170)
 
  ### Day 2
