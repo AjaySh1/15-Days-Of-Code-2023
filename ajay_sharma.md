@@ -4,7 +4,7 @@
 
    [08] [29],2023
    
-     ->Revised STL
+     - Revised STL
    
      - Questions
      
