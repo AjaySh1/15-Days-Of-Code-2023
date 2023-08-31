@@ -26,3 +26,5 @@ codechef(ajaysharma01)
 - Q.1(https://codeforces.com/problemset/submission/791/221249245)
 - Q.2(https://codeforces.com/contest/1856/submission/221255239)
 - Q.3(https://codeforces.com/contest/110/submission/221260030)
+- Q.4(https://codeforces.com/problemset/submission/116/221266670)
+- 
