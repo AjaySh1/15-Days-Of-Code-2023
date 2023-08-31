@@ -4,15 +4,12 @@
 
    [08] [29],2023
  <br>
-     - Revised STL
-     - Questions
-     - A-team (https://codeforces.com/submissions/ajay.16)
-     <br>
-     - A-twin (https://codeforces.com/submissions/ajay.16)
-     <br>
-     - 1399B - Gifts Fixing (https://codeforces.com/submissions/ajay.16)
-     <br>
-     - Good array (https://codeforces.com/contest/1856/submission/220981170)
+   - Revised STL
+   - Questions
+   - A-team (https://codeforces.com/submissions/ajay.16)
+   - A-twin (https://codeforces.com/submissions/ajay.16)
+   - 1399B - Gifts Fixing (https://codeforces.com/submissions/ajay.16)
+   - Good array (https://codeforces.com/contest/1856/submission/220981170)
 
  ### Day 2
 
