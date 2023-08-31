@@ -28,3 +28,4 @@ codechef(ajaysharma01)
  [08] [31],2023
 <br>
 - Q.1
+- Q.2
