@@ -3,7 +3,7 @@
 ### Day 1
 
    [08] [29],2023
- <br>
+ 
    - Revised STL
    - Questions
    - A-team (https://codeforces.com/submissions/ajay.16)
