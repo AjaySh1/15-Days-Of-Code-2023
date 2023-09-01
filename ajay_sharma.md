@@ -37,4 +37,4 @@ codechef(ajaysharma01)
 [09] [01],2023
 <br>
 - watched video on string (luv babbar)
-- 
+- practiced basic operation on string(https://pastebin.com/Q7iB8xKE)
