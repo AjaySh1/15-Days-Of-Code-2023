@@ -43,4 +43,4 @@ codechef(ajaysharma01)
 [09] [01],2023
 <br>
 - Q.1(https://codeforces.com/problemset/submission/758/221569576)
-- 
+- Q.2(https://codeforces.com/problemset/problem/705/A)
