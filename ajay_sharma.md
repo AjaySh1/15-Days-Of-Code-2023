@@ -38,3 +38,9 @@ codechef(ajaysharma01)
 <br>
 - watched video on string (luv babbar)
 - practiced basic operation on string(https://pastebin.com/Q7iB8xKE)
+
+### Day 5
+[09] [01],2023
+<br>
+- Q.1(https://codeforces.com/problemset/submission/758/221569576)
+- 
