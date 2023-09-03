@@ -2,7 +2,7 @@
 
 ### Day 1
 
-   [08] [29],2023
+   August 29,2023
  
    - Revised STL
    - Questions
@@ -13,7 +13,7 @@
 
  ### Day 2
 
-   [08] [30],2023
+   August 30,2023
 <br>
 - Contest given on code chef (https://www.codechef.com/rankings/AUG23D?filterBy=Institution%3DMaulana%20Azad%20National%20Institute%20of%20Technology%2C%20Bhopal&itemsPerPage=100&order=asc&page=1&search=ajaysharma01&sortBy=rank)
 <br>
@@ -21,7 +21,7 @@ codechef(ajaysharma01)
 
 ### Day 3
 
- [08] [31],2023
+ August 31,2023
 <br>
 - Q.1(https://codeforces.com/problemset/submission/791/221249245)
 - Q.2(https://codeforces.com/contest/1856/submission/221255239)
@@ -34,13 +34,14 @@ codechef(ajaysharma01)
 
 ### Day 4
 
-[09] [01],2023
+September 1,2023
 <br>
 - watched video on string (luv babbar)
 - practiced basic operation on string(https://pastebin.com/Q7iB8xKE)
 
 ### Day 5
-[09] [01],2023
+
+September 2,2023
 <br>
 - Q.1(https://codeforces.com/problemset/submission/758/221569576)
 - Q.2(https://codeforces.com/problemset/problem/705/A)
