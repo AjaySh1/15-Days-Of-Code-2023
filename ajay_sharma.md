@@ -46,4 +46,9 @@ September 2,2023
 - Q.1(https://codeforces.com/problemset/submission/758/221569576)
 - Q.2(https://codeforces.com/problemset/problem/705/A)
 - Q.3(https://codeforces.com/problemset/submission/1681/221580301)
-- 
+
+  ### Day 6
+
+  September 3,2023
+  <br>
+  
