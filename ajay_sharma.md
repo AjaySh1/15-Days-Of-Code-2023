@@ -52,4 +52,12 @@ September 2,2023
   September 3,2023
   <br>
   - the whole day went in travelling .Will coverup in the upcoming days
+
+    ### Day 7
+    
+    September 4,2023
+    <br>
+- Q.1 A-tricky_sum(https://codeforces.com/problemset/submission/598/221823682)
+- 
+    
   
