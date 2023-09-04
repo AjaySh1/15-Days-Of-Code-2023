@@ -47,16 +47,16 @@ September 2,2023
 - Q.2(https://codeforces.com/problemset/problem/705/A)
 - Q.3(https://codeforces.com/problemset/submission/1681/221580301)
 
-  ### Day 6
+ ### Day 6
 
   September 3,2023
   <br>
   - the whole day went in travelling .Will coverup in the upcoming days
 
-    ### Day 7
-    
-    September 4,2023
-    <br>
+ ### Day 7
+
+ September 4,2023
+ <br>
 - Q.1 A-tricky_sum(https://codeforces.com/problemset/submission/598/221823682)
 - 
     
