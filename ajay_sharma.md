@@ -59,6 +59,6 @@ September 2,2023
  <br>
 - Q.1 A-tricky_sum(https://codeforces.com/problemset/submission/598/221823682)
 - Q.2 prime_subtraction(https://codeforces.com/problemset/submission/1238/221828991)
-- 
+- Q.3 Duff and meat(https://codeforces.com/problemset/submission/588/221844449)
     
   
