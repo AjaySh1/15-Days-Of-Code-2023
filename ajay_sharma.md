@@ -66,5 +66,8 @@ September 2,2023
 September 5,2023
 <br>
 - Practiced linked list all the important operation (https://pastebin.com/KSZSDeEk)
-- 
+-  practiced question on strings
+   -  Helpful Maths (https://codeforces.com/contest/339/submission/221979843)
+   -  Petya and Strings (https://codeforces.com/contest/112/submission/221978108)
+   -  Way Too Long Words (https://codeforces.com/contest/71/submission/221974643)
   
