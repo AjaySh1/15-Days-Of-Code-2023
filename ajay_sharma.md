@@ -71,4 +71,5 @@ September 5,2023
    -  Petya and Strings (https://codeforces.com/contest/112/submission/221978108)
    -  Way Too Long Words (https://codeforces.com/contest/71/submission/221974643)
    -  Boy or girl (https://codeforces.com/problemset/submission/236/221985037)
+   -  pangram(https://codeforces.com/problemset/submission/520/221985788)
   
