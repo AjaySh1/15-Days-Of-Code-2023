@@ -72,4 +72,5 @@ September 5,2023
    -  Way Too Long Words (https://codeforces.com/contest/71/submission/221974643)
    -  Boy or girl (https://codeforces.com/problemset/submission/236/221985037)
    -  pangram(https://codeforces.com/problemset/submission/520/221985788)
-  
+   -  deletion of adjacentletters(https://codeforces.com/problemset/submission/1650/221988097)
+   
