@@ -70,4 +70,5 @@ September 5,2023
    -  Helpful Maths (https://codeforces.com/contest/339/submission/221979843)
    -  Petya and Strings (https://codeforces.com/contest/112/submission/221978108)
    -  Way Too Long Words (https://codeforces.com/contest/71/submission/221974643)
+   -  Boy or girl (https://codeforces.com/problemset/submission/236/221985037)
   
