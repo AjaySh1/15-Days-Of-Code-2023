@@ -73,4 +73,13 @@ September 5,2023
    -  Boy or girl (https://codeforces.com/problemset/submission/236/221985037)
    -  pangram(https://codeforces.com/problemset/submission/520/221985788)
    -  deletion of adjacentletters(https://codeforces.com/problemset/submission/1650/221988097)
+
+### Day 9
+
+September 6,2023
+<br>
+- watched videos on DBMS
+- DUPSTEP(https://codeforces.com/problemset/submission/208/222124956)
+- FOOTWALL(https://codeforces.com/problemset/submission/96/222117296)
+  
    
