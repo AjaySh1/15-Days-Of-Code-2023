@@ -81,5 +81,15 @@ September 6,2023
 - watched videos on DBMS
 - DUPSTEP(https://codeforces.com/problemset/submission/208/222124956)
 - FOOTWALL(https://codeforces.com/problemset/submission/96/222117296)
+
+### Day 10
+
+September 7,2023
+<br>
+- watched videos on DBMS
+- wrote a assignment
+- participated in contest on codeforces (DIV )
+   - Q1.(https://codeforces.com/contest/1872/submission/222294573)
+   - Q2.(https://codeforces.com/contest/1872/submission/222287842)
   
    
