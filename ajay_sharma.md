@@ -93,3 +93,10 @@ September 7,2023
    - Q2.(https://codeforces.com/contest/1872/submission/222287842)
   
    
+### Day 11
+
+September 8,2023
+<br>
+- watched videos on DBMS
+- started learning SQL
+- revised oops (operator operloading,inheritance)
