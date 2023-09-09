@@ -100,3 +100,10 @@ September 8,2023
 - watched videos on DBMS
 - started learning SQL
 - revised oops (operator operloading,inheritance)
+
+### Day 12
+
+September 9,2023
+<br>
+- Completed SQL one shot by APNA COLLEGE
+-  GCD PROBLEM (https://codeforces.com/problemset/submission/1617/222635156)
