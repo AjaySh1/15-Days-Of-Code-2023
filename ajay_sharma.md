@@ -107,3 +107,9 @@ September 9,2023
 <br>
 - Completed SQL one shot by APNA COLLEGE
 -  GCD PROBLEM (https://codeforces.com/problemset/submission/1617/222635156)
+
+### Day 13
+September 10,2023
+<br>
+- watched videos of tree datastructure
+- problem contest(https://codeforces.com/problemset/submission/501/222709846)
