@@ -113,3 +113,4 @@ September 10,2023
 <br>
 - watched videos of tree datastructure
 - problem contest(https://codeforces.com/problemset/submission/501/222709846)
+- problem delete from the left(https://codeforces.com/problemset/submission/1005/222716030)
