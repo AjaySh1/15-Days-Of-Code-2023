@@ -114,3 +114,5 @@ September 10,2023
 - watched videos of tree datastructure
 - problem contest(https://codeforces.com/problemset/submission/501/222709846)
 - problem delete from the left(https://codeforces.com/problemset/submission/1005/222716030)
+- Tried https://codeforces.com/contest/1869
+   -problem 2D Travelling (https://pastebin.com/qpR2NcCX)
