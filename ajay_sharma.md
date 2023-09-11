@@ -123,3 +123,4 @@ September 11,2023
 - learn how to create a binary tree(https://pastebin.com/GKtMR0y1)
 - Gave the contest codeforces 897
    - submission(https://codeforces.com/contest/1867/submission/222932826)
+- Completed tree(traversal,basics etc)
