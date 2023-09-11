@@ -116,3 +116,8 @@ September 10,2023
 - problem delete from the left(https://codeforces.com/problemset/submission/1005/222716030)
 - Tried https://codeforces.com/contest/1869
    -problem 2D Travelling (https://pastebin.com/qpR2NcCX)
+
+### Day 14
+September 11,2023
+<br>
+- learn how to create a binary tree(https://pastebin.com/GKtMR0y1)
